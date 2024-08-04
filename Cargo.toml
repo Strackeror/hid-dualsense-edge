@@ -6,6 +6,7 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.86"
 macro_rules_attribute = "0.2.0"
+paste = "1.0.15"
 widestring = "1.1.0"
 winsafe = {version = "0.0.21",  features = ["kernel", ]}
 

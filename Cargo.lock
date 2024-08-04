@@ -155,6 +155,7 @@ dependencies = [
  "anyhow",
  "dll-exports",
  "macro_rules_attribute",
+ "paste",
  "widestring",
  "winsafe",
 ]
